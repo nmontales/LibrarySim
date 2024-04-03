@@ -226,7 +226,7 @@ int main() {
 
     }
 
-    // Student Linked List Array
+    // Student Linked List Array. 
     pNode* people[2];
     people[0] = tHead;
     people[1] = sHead;
